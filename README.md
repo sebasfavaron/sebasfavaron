@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Sebas
 
 - 🔭 On my free time I'm working on an automatic Argentinian fashion aggregator ([repo](https://github.com/sebasfavaron/tiendanube-aggregator) | [front](https://shopping-arg.netlify.app/))
-- 🌱 I'm currently learning Go
-- ⚽ I love playing futbol, climbing 🧗‍♂️ and sailing ⛵
+- ⚽ I love playing futbol, climbing 🧗‍♂️ and calisthenics
 - 💬 Ask me about dev-containers!
 - 📫 How to reach me: just shoot me an [email](mailto:sebastianfavaron@gmail.com) at sebastianfavaron@gmail.com or dm me on [instagram](https://www.instagram.com/sebas.favaron/)
 
